@@ -1,0 +1,57 @@
+/* styles.css */
+
+/* Estilos generales */
+body {
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Cambiamos la fuente predeterminada */
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    font-size: 50px;
+}
+
+header {
+    background-color: #e91e63;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Lobster', cursive; /* Cambiamos la fuente del encabezado */
+}
+
+footer {
+    background-color: #e91e63;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Lobster', cursive; /* Cambiamos la fuente del pie de página */
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #e91e63;
+    font-family: 'Lobster', cursive; /* Cambiamos la fuente de los títulos */
+}
+
+p {
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Mantenemos la fuente predeterminada para el texto normal */
+}
+
+img {
+    max-width: 100%;
+    border-radius: 5px;
+}
